@@ -10,3 +10,5 @@ tiktoken
 bs4
 kor
 markdownify
+youtube-transcript-api
+pytube
