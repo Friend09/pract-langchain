@@ -8,3 +8,5 @@ langchainhub
 chromadb
 tiktoken
 bs4
+kor
+markdownify
