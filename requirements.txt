@@ -12,3 +12,4 @@ kor
 markdownify
 youtube-transcript-api
 pytube
+ragatouille
