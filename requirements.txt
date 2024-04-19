@@ -16,3 +16,4 @@ pytube
 ragatouille
 anthropic
 tavily-python
+numexpr
