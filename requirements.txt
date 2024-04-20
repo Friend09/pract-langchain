@@ -4,8 +4,10 @@ python-dotenv
 langchain
 langchain_community
 langchain-openai
+langchain-nomic
 langchain-cohere
 langchainhub
+langgraph
 chromadb
 tiktoken
 bs4
@@ -17,3 +19,4 @@ ragatouille
 anthropic
 tavily-python
 numexpr
+gpt4all
