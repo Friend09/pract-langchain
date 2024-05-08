@@ -160,6 +160,4 @@ cython_debug/
 #.idea/
 
 # misc
-ref_rag_from_scratch/
-ref_rag_from_scratch
-ref_lcel_runnables/
+ref_*
