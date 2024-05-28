@@ -12,6 +12,7 @@ langchain-nomic
 langchain-openai
 langchainhub
 langgraph
+loguru
 markdownify
 numexpr
 openai
