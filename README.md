@@ -1,2 +1,3 @@
 # pract-langchain
-a repo to practise langchain library
+
+a repo to practise langchain, langgraph library
